@@ -1,0 +1,3 @@
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debuger\debuger\bin\Debug\debuger.exe.config
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debuger\debuger\obj\Debug\debuger.exe
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debuger\debuger\obj\Debug\debuger.pdb
