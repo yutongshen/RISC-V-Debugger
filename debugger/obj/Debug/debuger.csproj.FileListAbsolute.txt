@@ -1,0 +1,9 @@
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\bin\Debug\debugger.exe.config
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\obj\Debug\debugger.exe
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\obj\Debug\debugger.pdb
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\bin\Debug\debugger.exe
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\bin\Debug\debugger.pdb
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\obj\Debug\debugger.csprojResolveAssemblyReference.cache
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\obj\Debug\debugger.Properties.Resources.resources
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\obj\Debug\debugger.csproj.GenerateResource.Cache
+C:\Users\thank\Documents\Visual Studio 2015\Projects\debugger\debugger\obj\Debug\debugger.debugger.resources
